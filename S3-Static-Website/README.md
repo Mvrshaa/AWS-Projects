@@ -4,18 +4,15 @@ This project demonstrates how to deploy a static website using **Amazon S3**. Th
 
 By following this project, you’ll gain hands-on experience with **Amazon S3**, one of the foundational AWS services, and learn how to leverage it for simple yet powerful website hosting.
 
----
 
 ## Features
 
 - **Static Website Hosting**: Host HTML, CSS, and JavaScript files on Amazon S3, making them accessible via a public URL. 
 
 - **Simple Permissions Setup**: Learn how to configure bucket policies to allow public access to your website.
----
 
-## Project Overview
 
-### Steps to Deploy
+### Steps 
 
 1. **Create an S3 Bucket**:
    - Log in to the AWS Console and navigate to the S3 service.
@@ -34,6 +31,5 @@ By following this project, you’ll gain hands-on experience with **Amazon S3**,
 5. **Access the Website**:
    - Use the website endpoint URL provided in the S3 bucket properties to access your live static website.
 
----
 
 For more detailed instructions, check out the full report [here](https://medium.com/@mvrshaa/creating-a-static-website-using-amazon-s3-dca7dda0c500).
